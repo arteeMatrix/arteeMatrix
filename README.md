@@ -10,13 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **crochet.strings**
-
-- 🌱 I’m currently learning **MernStack**
-
-- 💬 Ask me about **react,node,express,mongodb**
-
-- 📫 How to reach me **aarti001mehta@gmail.com**
+📫 Reach me **aarti001mehta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,9 +24,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arteematrix&show_icons=true&locale=en&layout=compact" alt="arteematrix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arteematrix&show_icons=true&locale=en" alt="arteematrix" /></p>
+![](https://github-readme-stats.vercel.app/api?username=arteeMatrix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arteeMatrix&theme=dark&hide_border=false)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arteematrix&show_icons=true&locale=en" alt="arteematrix" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arteematrix&" alt="arteematrix" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arteematrix&" alt="arteematrix" /></p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
