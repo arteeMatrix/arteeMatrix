@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I am Aarti Mehta!</h1>
-<h3 align="center">A passionate IT student from Nepal with a passion for web development using the MERN stack. Currently building dynamic and user-focused web applications.</h3>
+<h3 align="center">A passionate web dev from Nepal. I aspire to dive deeper into the world of Artificial Intelligence and Machine Learning, combining creativity with technology to solve real-world problems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arteematrix&label=Profile%20views&color=0e75b6&style=flat" alt="arteematrix" /> </p>
 
